@@ -1,0 +1,206 @@
+.jumbotron{
+    color: rgb(0, 0, 0);
+    background-color:WHITE !important;
+    }
+
+body{
+    background-color:#F5F7F8 !important;
+}
+/* ----------------------------------------------------------------------------------------
+*                         14. Google map  and contact area css          
+* --------------------------------------------------------------------------------------- 
+.map-contact-area {
+    position: relative;
+}
+
+.map-area {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#contactgoogleMap {
+    width: 100%;
+    height: 100%;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%); 
+}
+
+.contact {
+    max-width: 95%;
+    margin: auto;
+    position: relative;
+    background: #fff;
+    transform: translateY(-240px);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 100px;
+    padding-top: 80px;
+    margin-top: 30px;
+    box-shadow: 0px 20px 50px 10px rgba(153, 153, 153, 0.2);
+}
+
+.contact-title {
+    text-align: center;
+    max-width: 570px;
+    margin: auto;
+    margin-bottom: 80px;
+    position: relative;
+}
+
+
+.contact-info {
+   float: left;
+   width: 35%;
+   padding-right: 30px;
+   padding-left: 30px;
+}
+
+.contact-box {
+    width: 100%;
+    background: #f9f9f9;
+    margin-bottom: 20px;
+    height: 100px;
+    padding-left: 60px;
+    position: relative;
+}
+
+.contact-box h3 {
+   margin-bottom: 0;
+   padding-top: 25px;
+}
+
+.contact-box span {
+    font-size: 21px;
+    color: rgb(86, 161, 213);
+    position: absolute;
+    left: 25px;
+    top: 26px;
+}
+
+.contact-form {
+    float: right;
+    width: 65%;
+    margin-top: -10px;
+}
+
+.contact-form label {
+    font-size: 14px;
+    color: #0f1d44;
+    vertical-align: middle;
+}
+
+.contact-form input {
+    border: 0;
+    outline: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: #f9f9f9;
+    height: 50px;
+    padding-left: 25px;
+    margin-top: 5px;
+}
+
+.contact-form textarea:focus,
+.contact-form input:focus {
+    border: 0;
+    outline: 0;
+    box-shadow: none;
+}
+
+.contact-form textarea {
+    background: #f9f9f9;
+    height: 140px;
+    padding-left: 15px;
+    border: 0;
+    outline: 0;
+    border-radius: 0;
+    box-shadow: none;
+    margin-top: 5px;
+}
+
+#submitButton {
+    background: #ff65a5;
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+    padding: 15px 50px;
+    margin-top: 30px;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+    background: rgb(86, 161, 213);
+}
+
+#submitButton:hover {
+    background: #fff;
+    border: 1px solid #eee;
+    color: rgb(86, 161, 213);
+}
+
+.success {
+    color: #fff;
+    padding: 10px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.error {
+    padding: 10px;
+    color: #ff0000;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+
+.address span.lnr, 
+.address i.fa {
+    width: 40px;
+    float: left;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+@media(max-width: 1199px) {
+    .contact-info {
+        padding-left: 0;
+    }
+}
+
+@media(max-width: 991px) {
+    .contact-info,.contact-form {
+        width: 100%;
+    }
+
+    .contact-info {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+@media(max-width: 479px) {
+    .contact-title {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .contact {
+        padding-top: 100px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 50px;
+        transform: translateY(-150px)
+    }
+    .contact-title:before {
+        top: -70px;
+    }
+    .contact-form {
+        margin-top: 30px;
+    }
+}
+
+
+*/
